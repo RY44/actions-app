@@ -54,7 +54,7 @@ const App = () => {
       <div onClick={playerChoice} id="7" className="game-tile"></div>
       <div onClick={playerChoice} id="8" className="game-tile"></div>
     </div>
-    <p className="game-over">`</p>
+    <p className="game-over">``</p>
     </>
   )
 }
